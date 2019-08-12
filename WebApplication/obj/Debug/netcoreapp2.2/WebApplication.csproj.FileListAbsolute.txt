@@ -1,0 +1,14 @@
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csprojAssemblyReference.cache
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\akshata.shetty\Desktop\FMC\Test\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.pdb
